@@ -1,0 +1,14 @@
+SALT = 10 
+JWTPRIVATEKEY= YOUR KEY
+DB = YOUR DB ADDRESS
+
+BASE_URL =  http://localhost:3000
+
+SERVICE = gmail
+HOST= smtp.gmail.com
+EMAIL_PORT = 587 
+SECURE =true
+
+USER = YOUR MAIL
+PASS = YOUR PASSWORD
+
